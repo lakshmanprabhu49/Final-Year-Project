@@ -1,0 +1,3 @@
+This folder contains possibly 2 sub-folders.
+  1) Images
+  2) Annotations(XML files)
